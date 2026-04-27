@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### GitHub Stats:
+![Statistik Saya](https://vercel.app)
+
+### Top Languages:
+![Bahasa Populer](https://vercel.app)
+
 <!--
 **hajirasyafi/hajirasyafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
